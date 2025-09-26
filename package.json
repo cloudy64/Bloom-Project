@@ -1,0 +1,21 @@
+{
+  "name": "bloom-project",
+  "version": "1.0.0",
+  "description": "https://trello.com/invite/b/68d16e082d00905e56973570/ATTI13d0866a94281eeb2b4b7c1ff840de7b89541292/bloom",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudy64/Bloom-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudy64/Bloom-Project/issues"
+  },
+  "homepage": "https://github.com/cloudy64/Bloom-Project#readme"
+}
